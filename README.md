@@ -1,4 +1,4 @@
-
+내가 대학교3학년2학기 막학년막학기때 크로스플랫폼 실습 수업에서 만든 마지막 프로젝트 (할일 , 일정, 메모, 등등 여러가지 일정들을 한 곳에서 확인가능하도록 만든 어플)
 mohana_app
 
 A Flutter task-management application structured with a modular architecture.
